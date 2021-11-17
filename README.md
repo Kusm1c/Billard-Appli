@@ -1,4 +1,4 @@
 # Billard-Appli
  Projet de création d'un billard
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fbqn8y0eqUUw4fpaL2pDKdN%2FProjet-Billard-Web%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+https://www.figma.com/file/bqn8y0eqUUw4fpaL2pDKdN/Projet-Billard-Web?node-id=0%3A1
