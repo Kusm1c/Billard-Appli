@@ -1,0 +1,6 @@
+{
+    "require": {
+        "smarty/smarty": "^4.0",
+        "mikecao/flight": "^1.3"
+    }
+}
